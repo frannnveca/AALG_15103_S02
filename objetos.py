@@ -35,6 +35,7 @@ class Perro:
 
 p = Perro()
 print(p)
+p.ladrar()
 
 q = Perro("Chuguagua")
 print(q)
